@@ -1,0 +1,173 @@
+body{
+    margin: 0 20%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.box1{
+    border:1px solid blue;
+    padding:20px 60px;
+ 
+
+}
+.color li{
+    display:inline-block;
+
+}
+
+
+#blue{
+    border: 1px solid blue;
+    width:80px;
+    height:50px;
+    padding:10px 90px;
+    margin:10px 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: blue;
+    color:aliceblue;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}   
+#darkblue{
+    border: 1px solid blue;
+    width:80px;
+    height:50px;
+    margin:10px 20px;
+    padding:10px 90px;
+    text-align: center;
+    border-radius: 10px;
+    background-color:darkblue;
+    color:aliceblue;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#darkgreen{
+    border: 1px solid blue;
+    width:80px;
+    height:50px;
+    margin:10px 20px;
+   padding:10px 90px;
+   text-align: center;
+   border-radius: 10px;
+   background-color:darkgreen;
+   color:aliceblue;
+   font-size: 15px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+#pink{
+    border: 1px solid blue;
+    width:80px;
+    height:50px;
+    margin:10px 20px;
+   padding:10px 90px;
+   text-align: center;
+   border-radius: 10px;
+   background-color:pink;
+   color:white;
+   font-size: 15px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    color:green;
+}
+#reg{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: small;
+}
+#ita{
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: small;
+
+}
+#bold{
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: small;
+}
+#playreg{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: small;
+
+}
+#playita{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-size: small;
+}
+
+#playbold{
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: small;
+}
+#notreg{
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      font-size: small;
+}
+#notita{
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-variation-settings:
+      "wdth" 100;
+      font-size: small;
+}
+#notbold{
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      font-size: small;
+      
+      
+}
+.font{
+    margin-top: 10px;
+}
+
+.para,div{
+    padding:0px 10px;
+}
+
+.container{
+    border: 1px solid blue;
+}
+ .one,.two,.three{
+    display: inline-block;
+    border:1px none black;
+    padding:20px 60px;
+    
+}
+
+.style{
+    border:1px solid blue;
+    font-size: 15px;
+}
+.style1,.style2,.style3{
+    border: 1px none black;
+    display:inline-block;
+    padding:20px 60px;
+}
